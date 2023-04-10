@@ -16,3 +16,4 @@ private:
     string kota;
     string namaM;
     int sks;
+public:
