@@ -25,4 +25,7 @@ public:
         cout << " Jumlah SKS : ";
         cin >> sks;
     }
+    void tampil() {
+
+    }
 };
