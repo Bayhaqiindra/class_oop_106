@@ -17,3 +17,4 @@ private:
     string namaM;
     int sks;
 public:
+    void input() {
