@@ -13,4 +13,6 @@ public: void cetak() {
 
 class Matakuliah {
 private:
-   
+    string kota;
+    string namaM;
+    int sks;
